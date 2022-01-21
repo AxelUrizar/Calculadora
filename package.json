@@ -1,0 +1,12 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AxelUrizar/Calculadora.git",
+  "author": "AxelUrizar <axelurizarmartin@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
